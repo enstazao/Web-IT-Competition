@@ -1,0 +1,1 @@
+export const SET_PROFILE_ERRORS = "SET_PROFILE_ERRORS";
